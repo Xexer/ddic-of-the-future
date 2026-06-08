@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SUSO" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TOBJ>
+    <OBJCT>ZBS_DDIC</OBJCT>
+    <FIEL1>ACTVT</FIEL1>
+    <FIEL2>ZBSDDICACT</FIEL2>
+    <OCLSS>CPAE</OCLSS>
+   </TOBJ>
+   <TOBJ_ATTR>
+    <OBJCT>ZBS_DDIC</OBJCT>
+    <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
+   </TOBJ_ATTR>
+   <TOBJT>
+    <LANGU>E</LANGU>
+    <OBJECT>ZBS_DDIC</OBJECT>
+    <TTEXT>ZBS_DDIC</TTEXT>
+   </TOBJT>
+   <TACTZ>
+    <TACTZ>
+     <BROBJ>ZBS_DDIC</BROBJ>
+     <ACTVT>01</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>ZBS_DDIC</BROBJ>
+     <ACTVT>02</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>ZBS_DDIC</BROBJ>
+     <ACTVT>03</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>ZBS_DDIC</BROBJ>
+     <ACTVT>06</ACTVT>
+    </TACTZ>
+   </TACTZ>
+  </asx:values>
+ </asx:abap>
+</abapGit>
