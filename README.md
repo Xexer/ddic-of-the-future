@@ -1,2 +1,3 @@
-# ddic-of-the-future
-DDIC of the Future 
+# DDIC of the Future 
+
+Mini-Series for DDIC stuff.
