@@ -1,0 +1,5 @@
+@EndUserText.quickInfo: 'Desc.'
+@EndUserText.label: 'Description'
+@EndUserText.heading: 'Description'
+@AbapCatalog.typeSpec.changeDocumentRelevant: true
+define type ZBS_ST_CDSDescription : abap.char(80)

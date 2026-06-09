@@ -1,0 +1,6 @@
+@EndUserText.quickInfo: 'Sec.'
+@EndUserText.label: 'Secondary'
+@EndUserText.heading: 'Secondary'
+@AbapCatalog.typeSpec.conversionExit: 'ALPHA'
+@AbapCatalog.typeSpec.outputLength: 10
+define type ZBS_ST_CDSSecondary : abap.char(10)

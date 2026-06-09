@@ -1,0 +1,13 @@
+@EndUserText.quickInfo: 'Action'
+@EndUserText.label: 'Action'
+@EndUserText.heading: 'Action'
+@AbapCatalog.typeSpec.changeDocumentRelevant: true
+define type ZBS_SE_CDSActionItem : abap.char(1) enum
+{
+  @EndUserText.label: 'No action'
+  NoAction    = initial;
+  @EndUserText.label: 'Enhancement'
+  Enhancement = 'E';
+  @EndUserText.label: 'Rollout'
+  Rollout     = 'R';
+}

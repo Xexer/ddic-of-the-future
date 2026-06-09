@@ -1,0 +1,2 @@
+@EndUserText.label: 'Key Component'
+define type ZBS_ST_CDSKey : abap.char(15)

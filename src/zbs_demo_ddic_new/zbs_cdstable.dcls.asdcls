@@ -1,0 +1,11 @@
+@EndUserText.label: 'ACL for Table'
+@MappingRole: true
+define role ZBS_CDSTABLE {
+  grant 
+    select
+      on
+        ZBS_CDSTABLE
+          where
+            (ActionItem) = aspect pfcg_auth(ZBS_DDIC, ZBSDDICACT, ACTVT = '03');
+            
+}

@@ -1,0 +1,4 @@
+@EndUserText.quickInfo: 'Ident'
+@EndUserText.label: 'Identifier'
+@EndUserText.heading: 'Identifier'
+define type ZBS_ST_CDSIdentifier : ZBS_ST_CDSKey
